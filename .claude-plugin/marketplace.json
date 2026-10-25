@@ -1,0 +1,14 @@
+{
+  "name": "scan-to-freecad",
+  "description": "Claude Code plugin marketplace for scan-to-freecad",
+  "owner": {
+    "name": "Kurt Stutsman"
+  },
+  "plugins": [
+    {
+      "name": "scan-to-freecad",
+      "source": "./plugins/scan-to-freecad",
+      "description": "Reverse-engineer 3D-scanned parts into parametric FreeCAD models"
+    }
+  ]
+}

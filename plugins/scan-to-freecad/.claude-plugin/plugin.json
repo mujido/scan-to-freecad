@@ -1,0 +1,11 @@
+{
+  "name": "scan-to-freecad",
+  "version": "0.1.0",
+  "description": "Reverse-engineer 3D-scanned parts into parametric FreeCAD PartDesign models, with an optional print-ready variant.",
+  "author": {
+    "name": "Kurt Stutsman"
+  },
+  "repository": "https://github.com/mujido/scan-to-freecad",
+  "license": "MIT",
+  "keywords": ["freecad", "3d-scanning", "cad", "point-cloud", "reverse-engineering", "3d-printing"]
+}
